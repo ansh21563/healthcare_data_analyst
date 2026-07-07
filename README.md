@@ -81,12 +81,7 @@ Papollo-Healthcare-Dashboard/
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboard here.
-
-Example:
-
-
-images/dashboard.png
+![Papollo Healthcare Dashboard](images/dashboard.png)
 
 
 
